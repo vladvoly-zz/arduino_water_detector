@@ -32,3 +32,5 @@ My project on the Arduino platform. Automatic control of water supply, automatic
 * ШАРОВЫЙ КРАН С ЭЛЕКТРОПРИВОДОМ - http://ali.pub/2dyreu 
 * ЭЛЕКТРОМАГНИТНЫЙ КЛАПАН ДЛЯ ВОДЫ - http://ali.pub/2dyric 
 * МАКЕТНАЯ ПЛАТА Breadboard - http://ali.pub/2dyr6a
+
+### Принимаю рекомендации и советы. Это мой первый проект, я только учусь. Спасибо. Всем удачи.
